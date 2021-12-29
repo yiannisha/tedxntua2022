@@ -1,4 +1,4 @@
-# TEDxNTUA Base
+# TEDxNTUA 2022
 Django project that serves as a base for [TEDxNTUA](https://tedxntua.com)'s websites.
 
 ## Usage
