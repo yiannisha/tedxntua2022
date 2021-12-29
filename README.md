@@ -8,10 +8,10 @@ The project contains some `<VAR:NAME>` occurrences for information that changes 
 
 ## Contributors
 Listed alphabetically:
-1. Ioannis Daras ([giannisdaras](https://github.com/giannisdaras))
-1. Theodore Diamantidis ([tdiam](https://github.com/tdiam))
-1. Manolis Panagiotou ([panagiotou](https://github.com/panagiotou))
-
+1. Elina Syrri ([ElinaSyr](https://github.com/ElinaSyr))
+2. George Papadoulis ([G-Papad](https://github.com/G-Papad))
+3. Vaggelis Pipis 
+4. Yiannhs Xatzigiannis
 ## Documentation
 * [Contributing](docs/contributing.md)
 * [Installation](docs/installation.md)
